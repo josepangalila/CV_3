@@ -1,0 +1,85 @@
+ div.foto{
+     width: 100px;
+     height: 100px;
+     position: relative;
+     left: 550px;
+     }
+div.nama{
+    position: relative;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    left: 51rem;
+    bottom: 3rem;
+    
+ }
+div.curiculum{
+    position: relative;
+    left: 35rem;
+    font-style: oblique;
+    bottom: 5rem;
+}
+
+div.data{
+    position: relative;
+    font-family: 'Courier New', Courier, monospace;
+    bottom: 20px;
+
+    
+}
+div.kemampuan{
+    position: relative;
+    font-family: 'Give You Glory', cursive;
+   left: 40rem;
+    bottom: 4rem;    
+}
+ 
+div.menghubungi{
+    position: relative;
+    font-family: 'Give You Glory', cursive;
+    left: 74rem;
+    bottom: 105px;
+    
+}
+
+
+
+ 
+h1 {
+    font-size: 2rem;
+    font-family: 'Sansita Swashed', cursive;
+}
+h1.nama {
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Sansita Swashed', cursive;
+    
+    margin: auto;
+    
+}
+p.karir {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+div.riwayat {
+    font-size: 25px; 
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+ 
+}
+
+div.data{
+    font-family: 'Give You Glory', cursive;
+}
+div.hobby{
+    font-size: 2rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+h1.last{
+    position: relative;
+    left: 35rem;
+}
+div.gambar{
+    position: relative;
+    left: 38rem;    
+}
